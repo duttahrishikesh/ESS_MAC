@@ -25,6 +25,6 @@ To run a simulation proceed using the following steps:
 3. Input the allocated slot for each node in sequence of node number. This will come from ESS_MAC_Slot_Allocator.c
 4. Define all the flows in the network in the list 'flow'
 5. Define the data rate of each flow in the list 'rate'
-6. Input the learning hyperparameters: Learning rate ($\alpha$), Epsilon greedy policy parameters ($\epsilon_{max}$, $\epsilon_{decay}$), discount factor ($\gamma$), learning rate decay
+6. Input the learning hyperparameters: Learning rate (&alpha;), Epsilon greedy policy parameters (&epsilon;_{max}, $\epsilon_{decay}$), discount factor (&gamma;), learning rate decay
 7. Input the number of learning epochs in variable epochs
 8. Observe the outputs in terms of packet missed rate, efficiency, end-to-end delay
