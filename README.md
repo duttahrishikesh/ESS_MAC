@@ -13,7 +13,7 @@ To run a simulation proceed using the following steps:
 1. Input Number of Network nodes in No_of_Nodes
 2. Define the network topology using the matrix topology[][], where topology[i][j]=1, if nodes i and j are connected. Else, topology[i][j]=0. To note, that the node index starts from 0.
 3. Input the frame size in number of slots using the variable minislots. Note that actions and minislots variables should have the same value
-4. Input the learning hyperparameters: Learning rates (&alpha; and $\beta$), Epsilon greedy policy parameters ($\eps_max$)
+4. Input the learning hyperparameters: Learning rates (&alpha; and $\beta$), Epsilon greedy policy parameters ($\eps_{max}$)
 5. Input the number of learning epochs in variable epochs
 6. Observe the outputs in terms of allocated slot for each node
 
