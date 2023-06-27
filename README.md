@@ -1,6 +1,6 @@
 # ESS_MAC
 
-# [Please contact duttahr1@msu.edu for the code. This code is being used for development of an ongoing project]
+# [Please contact duttahr1@msu.edu for access to the code. This code is being used for development of an ongoing project]
 
 This project simulates ESS-MAC with embedded learning components. The simulation kernel performs event scheduling in terms of packet generation, transmissions and receptions. To implement the proposed ESS-MAC protocol, the Reinforcement Learning and Multi-Armed Bandits update equations are embedded on top of the MAC layer functions.  
 
